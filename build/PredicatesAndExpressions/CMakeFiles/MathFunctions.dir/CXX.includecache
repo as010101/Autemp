@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Aurora/aurora_1_2/predparser/src/PredicatesAndExpressions/TupleDescription.H
+string
+-
+map
+-
+
+/Aurora/aurora_1_2/predparser/src/PredicatesAndExpressions/TupleDescription.cpp
+TupleDescription.H
+/Aurora/aurora_1_2/predparser/src/PredicatesAndExpressions/TupleDescription.H
+stdio.h
+-
+
+/Aurora/aurora_1_2/predparser/src/PredicatesAndExpressions/tupleGenerator.H
+string
+-
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+sys/time.h
+-
+TupleDescription.H
+/Aurora/aurora_1_2/predparser/src/PredicatesAndExpressions/TupleDescription.H
+
+/Aurora/aurora_1_2/predparser/src/PredicatesAndExpressions/tupleGenerator.cpp
+tupleGenerator.H
+/Aurora/aurora_1_2/predparser/src/PredicatesAndExpressions/tupleGenerator.H
+

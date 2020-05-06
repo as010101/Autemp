@@ -1,0 +1,2 @@
+/Aurora/aurora_1_2/predparser/src/build/CMakeFiles/Demo.dir
+/Aurora/aurora_1_2/predparser/src/build/PredicatesAndExpressions/CMakeFiles/MathFunctions.dir
